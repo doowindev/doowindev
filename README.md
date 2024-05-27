@@ -23,6 +23,6 @@ Here is a list of projects that will be added soon:
 
 ## Contact
 
-If you have any questions or would like to get in touch, please reach out to me via email at doowindev@gmail.com (mailto:your-email@example.com).
+If you have any questions or would like to get in touch, please reach out to me via email at doowindev@gmail.com.
 
 Thank you for visiting! Check back soon for updates.
